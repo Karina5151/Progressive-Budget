@@ -30,7 +30,7 @@ User must then run `node server.js` in the terminal. The application will then b
 ## Usage
 Giving users a fast and easy way to track their money by allowing them to access that information anytime, whether the application is online or offline.
 
-Launch Heroku deployed web application [here](https://note-taker5151.herokuapp.com/)
+Launch Heroku deployed web application [here](https://infinite-cliffs-60426.herokuapp.com/)
 
 ![Web App Image](./public/icons/budget-app.png)
 
